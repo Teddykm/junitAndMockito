@@ -24,7 +24,7 @@
       <artifactId>dropwizard-testing</artifactId>
       <version>${dropwizard-testing.version}</version>
     </dependency>
-    <dependency>`
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>${junit.version}</version>
