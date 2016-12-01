@@ -1,5 +1,7 @@
-package com.tk;
+package com.tk.greetingtest;
 
+import com.tk.greeting.Greeting;
+import com.tk.greeting.GreetingImpl;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -12,7 +14,7 @@ public class GreetingImplTest {
 
     @Before
     public void setup() {
-        greeting = new  GreetingImpl();
+        greeting = new GreetingImpl();
     }
 
     @Test

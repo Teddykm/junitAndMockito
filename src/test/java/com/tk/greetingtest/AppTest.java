@@ -1,4 +1,4 @@
-package com.tk;
+package com.tk.greetingtest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

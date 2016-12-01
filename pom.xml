@@ -16,6 +16,7 @@
     <junit.version>4.11</junit.version>
     <lombok.version>1.16.8</lombok.version>
     <dropwizard-testing.version>1.0.0</dropwizard-testing.version>
+    <mockito-all.version>1.9.5</mockito-all.version>
   </properties>
 
   <dependencies>
@@ -39,6 +40,11 @@
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <version>${lombok.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.mockito</groupId>
+      <artifactId>mockito-all</artifactId>
+      <version>${mockito-all.version}</version>
     </dependency>
   </dependencies>
 </project>

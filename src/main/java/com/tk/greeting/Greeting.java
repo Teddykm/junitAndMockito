@@ -1,4 +1,4 @@
-package com.tk;
+package com.tk.greeting;
 
 public interface Greeting {
 
